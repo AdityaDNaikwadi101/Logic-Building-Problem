@@ -28,7 +28,8 @@ This repository contains topic-wise logic building programs designed to strength
 ## Language Used
 
 - C Programming
-
+- C++ Programing
+- Java
 
 ## Purpose
 
