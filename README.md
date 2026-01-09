@@ -38,4 +38,4 @@ This repository is part of my continuous learning journey in logic building and 
 
 ## Author
 
-Aditya Naikwadi
+Aditya Dnyaneshwar Naikwadi
