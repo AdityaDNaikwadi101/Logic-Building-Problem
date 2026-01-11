@@ -1,72 +1,62 @@
-📌 Problems on N Numbers (C Programming)
-📖 Overview
+# 📌 Problems on N Numbers (C Programming)
 
-This module focuses on real-world problem solving using N numbers and arrays in C.
-The programs are designed to build a strong foundation in data processing, memory handling, and logical decision-making, which are essential in practical software development and system-level programming.
+## 📖 Overview
+This repository contains **Problems on N Numbers implemented using Arrays in C**.
+The focus is on **real-world problem solving**, where numerical data is processed,
+analyzed, searched, modified, and managed efficiently.
 
-Each program demonstrates how raw numerical data can be analyzed, transformed, searched, and updated efficiently, similar to tasks performed in real applications.
+These programs help build a **strong logical foundation**, which is essential for
+developing reliable and maintainable software systems.
 
-🎯 Learning Objectives
+---
 
-Develop practical problem-solving skills using arrays
+## 🎯 Objectives
+- Build strong **problem-solving skills**
+- Learn **practical array manipulation**
+- Understand **data processing logic**
+- Apply **dynamic memory allocation**
+- Improve **code readability and structure**
 
-Learn how to process collections of data dynamically
+---
 
-Improve analytical thinking and logical structuring
+## 🧠 Concepts Covered
 
-Understand memory-efficient programming techniques
+### 🔹 Array Handling
+- Accepting N numbers from input
+- Displaying elements
+- Reverse traversal
+- Swapping and reversing arrays
 
-Apply concepts used in real software modules, not just theory
+### 🔹 Numerical Operations
+- Addition of all elements
+- Conditional addition (even / odd numbers)
 
-🧠 Concepts Covered (Real-World Oriented)
-🔹 Array Data Processing
+### 🔹 Data Classification
+- Display even numbers
+- Display odd numbers
+- Count even elements
+- Count odd elements
 
-Reading and handling N values from input
+### 🔹 Searching & Analysis
+- Search a specific number
+- Find frequency of a number
+- Divisibility checks
 
-Sequential and reverse data traversal
+### 🔹 Data Evaluation
+- Find maximum value
+- Find minimum value
 
-Element swapping and full array reversal
-➡️ Commonly used in data transformation pipelines
+### 🔹 Data Update Operations
+- Update array elements based on conditions
+- Modify values dynamically
 
-🔹 Numerical Aggregation
+### 🔹 Dynamic Memory Management
+- Allocate memory at runtime using `malloc()`
+- Release memory safely using `free()`
 
-Total sum of elements
+---
 
-Conditional aggregation (even / odd values)
-➡️ Used in analytics, reporting, and metrics calculation
+## ⚙️ How to Compile and Run
 
-🔹 Data Classification
-
-Separating even and odd values
-
-Counting categorized data
-➡️ Similar to filtering datasets based on rules
-
-🔹 Searching & Frequency Analysis
-
-Searching specific values
-
-Frequency calculation of elements
-➡️ Core logic used in logs, records, and inventory systems
-
-🔹 Validation & Rule Checking
-
-Divisibility-based conditions
-➡️ Used in rule engines and validation layers
-
-🔹 Min / Max Computation
-
-Identifying highest and lowest values
-➡️ Useful in performance tracking, thresholds, and limits
-
-🔹 Data Update Operations
-
-Conditional modification of array elements
-➡️ Represents real-time data correction and normalization
-
-🔹 Dynamic Memory Allocation
-
-Runtime memory allocation using malloc()
-
-Safe memory release using free()
-➡️ Essential for scalable and efficient applications
+gcc program_name.c -o program_name.exe
+program_name.exe
