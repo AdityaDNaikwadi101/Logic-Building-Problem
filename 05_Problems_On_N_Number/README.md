@@ -56,7 +56,9 @@ developing reliable and maintainable software systems.
 
 ---
 
+
 ## ⚙️ How to Compile and Run
 
+```bash
 gcc program_name.c -o program_name.exe
 program_name.exe
